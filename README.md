@@ -32,9 +32,9 @@ Running `umb new` will scaffold a blank Vite/Lit/TypeScript project as per the i
 Currently, running `umb generate [component]` will start an interactive builder to scaffold the most used types of components within the backoffice, heavily inspired by code from [Kevin Jump's TimeDashboard](https://github.com/kevinjump/TimeDashboard/)
 
 Supported components:
-- [x] sections (`ManifestSection`)
-- [x] dashboards (`ManifestDashboard`)
-- [x] sidebars (`ManifestSectionSidebarApp`, `ManifestMenu`, `ManifestMenuItem`)
+- [x] section (`ManifestSection`)
+- [x] dashboard (`ManifestDashboard`)
+- [x] sidebar (`ManifestSectionSidebarApp`, `ManifestMenu`, `ManifestMenuItem`)
 - [ ] header apps (`ManifestHeaderApp`)
 - [ ] workspaces / workspace views (`ManifestWorkspace`)
 - [ ] property editors (`ManifestPropertyEditorSchema`, `ManifestPropertyEditorUi`)
